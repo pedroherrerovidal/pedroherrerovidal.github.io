@@ -30,5 +30,5 @@ header:
 
 (2012) **Language exchange Internship**, MECD Spain
 
-(2010/14) **General grant for undergraduate University studies**, MECD Spain
+(2010-14) **General grant for undergraduate University studies**, MECD Spain
 
