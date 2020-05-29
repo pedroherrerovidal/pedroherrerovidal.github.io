@@ -23,4 +23,9 @@ author_profile: true
 
 - **Machine Learning**, Coursera (2017) [ :link: ](https://www.coursera.org/account/accomplishments/verify/ET6KA8R7NBAF)
 
+# Skills
+Python, Jupyter, TensorFlow, PyTorch, Pandas,  Git, MATLAB, R
+
+# Languages
+Spanish (native), English (Professional), Italian (basic)
 
