@@ -98,6 +98,7 @@ author:
   bio              : "Computational Neuroscience Ph.D candidate at NYU"
   location         : "New York City"
   email            :
+  linkedin         : "pedroherrerovidal" 
   links:
     - label: "pmh314@nyu.edu"
       icon: "fas fa-fw fa-envelope-square"
