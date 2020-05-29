@@ -3,6 +3,9 @@ title:  "Education"
 layout: home
 permalink: /education/
 author_profile: true
+header:
+  overlay_image: /assets/images/biology to artificial nngit.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 - **Ph.D. Neural Science** New York University *with specialization in Systems, Cognition, and Computation* (expected graduation May 2021)
