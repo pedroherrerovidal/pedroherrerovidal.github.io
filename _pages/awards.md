@@ -1,6 +1,6 @@
 ---
 title:  "Awards"
-layout: home
+layout: single
 permalink: /awards/
 author_profile: true
 header:
