@@ -4,8 +4,8 @@ main:
     url: /aboutme/
   - title: "Publications"
     url: /publications/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Education"
+    url: /education/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
