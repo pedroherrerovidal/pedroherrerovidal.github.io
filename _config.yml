@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Pedro Herrero-Vidal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/github.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Neuroscience Ph.D candidate at NYU"
   location         : "New York City"
   email            :
