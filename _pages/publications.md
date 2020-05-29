@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/biology to artificial nngit.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
-
+# **Publications**
 ## 2020
 - E. Shor, **P. Herrero-Vidal**, A. Dewan, I. Uguz, V. Curto, G. Malliaras, C. Savin, T. Bozza, D. Rinberg. *A mouse bio-electronic nose for sensitive and versatile chemical detection*. **bioRxiv** (2020) [ :link: ](https://www.biorxiv.org/content/10.1101/2020.05.06.079772v1)  <br />
 - P. Shrestha, Z. Shan, M. Marmarcz, K. Ruiz, A.  Zerihoun, C. Juan, **P. Herrero-Vidal**, J. Pelletier, N. Heintz, E. Klann. *De novo protein synthesis in distinct centrolateral amygdala interneurons is required for associative emotional memories*. **bioRxiv** (2020) [ :link: ](https://www.biorxiv.org/content/10.1101/2020.04.08.028233v1)  <br />
