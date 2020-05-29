@@ -17,4 +17,11 @@ author_profile: true
 
 # Talks
 ## 2020
-- 
+- **P. Herrero-Vidal**. *Encoding and decoding of odor objects in the piriform cortex*. **Computational Neuroscience Symposium**, New York University, USA.
+
+- **P. Herrero-Vidal**. *Decoding of chemical information from populations of olfactory neurons*. **Neural engineering research venture (NERV)**, Stellenbosch University, South Africa.
+
+## 2018
+- **P. Herrero-Vidal**.
+
+
