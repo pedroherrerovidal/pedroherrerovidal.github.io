@@ -1,6 +1,6 @@
 ---
 title:  "Education"
-layout: home
+layout: single
 permalink: /education/
 author_profile: true
 header:
