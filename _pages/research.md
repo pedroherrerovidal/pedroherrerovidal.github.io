@@ -3,6 +3,9 @@ title:  "Research"
 layout: home
 permalink: /research/
 author_profile: true
+header:
+  overlay_image: /assets/images/biology to artificial nngit.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 - 2017-present: **Ph.D. candidate** at the Center For Neural Science, NYU, USA. <br />
