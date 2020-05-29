@@ -93,13 +93,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Pedro Herrero-Vidal"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Computational Neuroscience Ph.D candidate at NYU"
+  location         : "New York City"
   email            :
   links:
-    - label: "Email"
+    - label: "pmh314@nyu.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pmh314@nyu.edu"
     - label: "Website"
@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/PedroHerreroV"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
