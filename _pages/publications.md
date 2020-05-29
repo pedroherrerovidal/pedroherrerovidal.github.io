@@ -8,7 +8,7 @@ author_profile: true
 ## 2020
 - E. Shor, **P. Herrero-Vidal**, A. Dewan, I. Uguz, V. Curto, G. Malliaras, C. Savin, T. Bozza, D. Rinberg. *A mouse bio-electronic nose for sensitive and versatile chemical detection*. **bioRxiv** (2020) [ :link: ](https://www.biorxiv.org/content/10.1101/2020.05.06.079772v1)
 
-- P. Shrestha, Z. Shan, M. Marmarcz, K. San Agustin Ruiz, A.  Zerihoun, C. Juan, **P. Herrero-Vidal**, J. Pelletier, Nathaniel Heintz, E. Klann. *De novo protein synthesis in distinct centrolateral amygdala interneurons is required for associative emotional memories*. **bioRxiv** (2020) [ :link: ](https://www.biorxiv.org/content/10.1101/2020.04.08.028233v1)
+- P. Shrestha, Z. Shan, M. Marmarcz, K. Ruiz, A.  Zerihoun, C. Juan, **P. Herrero-Vidal**, J. Pelletier, N. Heintz, E. Klann. *De novo protein synthesis in distinct centrolateral amygdala interneurons is required for associative emotional memories*. **bioRxiv** (2020) [ :link: ](https://www.biorxiv.org/content/10.1101/2020.04.08.028233v1)
 
 - P. Shrestha, P. Ayata, **P. Herrero-Vidal**, F. Longo, A. Gastone, J. LeDoux, N. Heintz, E. Klann. *Cell-type-specific drug-inducible protein synthesis inhibition demonstrates that memory consolidation requires rapid neuronal translation*. **Nature Neuroscience**, 23, 281–292 (2020) [:link:](https://www.nature.com/articles/s41593-019-0568-z)
 
@@ -24,7 +24,20 @@ author_profile: true
 ## 2018
 - **P. Herrero-Vidal**. *Reliable chemical decoding from the olfactory bulb of the mouse*. **First Year Talks**, New York University, USA.
 
-# **Conference posters**
+# **Conferences**
+## 2019
+- P. Shrestha, Z. Shan, M. Marmarcz, A.  Zerihoun, C. Juan, K. Ruiz, **P. Herrero-Vidal**, N. Heintz, J. Pelletier, E. Klann. *A protein synthesis code for differential threat memory trace in central amygdala interneurons*. **Society for Neuroscience 2019 Annual meeting**, Chicago, IL [ :link: ](https://www.abstractsonline.com/pp8/#!/7883/presentation/52306)
+
+## 2018
+- P. Shrestha, P. Ayata, **P. Herrero-Vidal**, A. Gastone, N. Heintz & E. Klann. *Chemogenetic evidence for the protein synthesis requirement during memory consolidation*. **Society for Neuroscience 2017 Annual meeting**, Washington, D.C. [ :link: ](https://www.abstractsonline.com/pp8/#!/4649/presentation/8737)
+
+## 2017
+- P. Shrestha, P. Ayata, **P. Herrero-Vidal**, A. Gastone, F. Longo, N. Heintz & E. Klann. *Chemogenetic interrogation of cell type specific translation in fear memories*. **Society for Neuroscience 2017 Annual meeting**, Washington, D.C. [ :link: ](https://www.abstractsonline.com/pp8/#!/4376/presentation/25181)
+
+- P. Shrestha, **P. Herrero-Vidal**, E. Jones & E. Klann. *Manipulations of Tsc2 in Oxytocin receptor expressing neurons causes sex-specific aberrations in social behavior*. **2017 International Research Conference on TSC and LAM**, Washington, D.C. [ :link: ](http://online.fliphtml5.com/tosk/caws/#p=71)
+
+## 2016
+- **P. Herrero-Vidal,** P. Shrestha, P. Ayata, A. Gastone, N. Heintz & E. Klann. *Inducible protein synthesis inhibition in the amygdala*. **Society for Neuroscience 2016 Annual meeting**, San Diego; and, **15th Molecular and Cellular Cognition Society Annual meeting**, San Diego. [ :link: ](https://www.abstractsonline.com/pp8/index.html#!/4071/presentation/20837)
 
 
 
