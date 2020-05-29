@@ -5,4 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-my research
+**Ph.D. candidate** at the Center For Neural Science, NYU, USA. 
+&nbsp; Supervisors: Cristina Savin and Dmitry Rinberg
+
