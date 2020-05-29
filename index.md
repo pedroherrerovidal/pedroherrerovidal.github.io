@@ -1,8 +1,8 @@
 ---
-layout: home
-permalink: /
+layout: single
 author_profile: true
 ---
+
 
 I am Computational Neuroscience Ph.D. candidate at NYU. My work aims to understand the encoding of sensory stimuli into neural activity and how experience shapes those representations. I combine optogenetics, ephys recordings and machine learning methods to explore how synthetic odors are represented in the cortex, what are the behaviorally relevant features of such code, and what is the effect of learning in this neural network. 
 
