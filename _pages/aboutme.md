@@ -1,9 +1,8 @@
 ---
 title:  "About me"
-layout: archive
+layout: default
 permalink: /aboutme/
 author_profile: true
-comments: true
 ---
 
 This is my blog page.
