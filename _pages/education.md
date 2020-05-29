@@ -1,5 +1,5 @@
 ---
-title:  "Education
+title:  "Education"
 layout: home
 permalink: /education/
 author_profile: true
