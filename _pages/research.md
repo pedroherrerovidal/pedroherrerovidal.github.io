@@ -20,9 +20,9 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Beatriz Cubelos
 
 # **Teaching**
-Spring 2020: **Deep Learning graduate level course grader**, Center for Data Science, NYU, USA.
+Spring 2020: **Deep Learning graduate level course grader**, Center for Data Science, NYU, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Professors: Yann LeCun and Alfredo Canziani
 
-Fall 2018: **Brain and Behavior undergraduate level course teaching assistant**, Center for Neural Science, NYU, USA.
+Fall 2018: **Brain and Behavior undergraduate level course teaching assistant**, Center for Neural Science, NYU, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Professor: Andre Fenton
 
