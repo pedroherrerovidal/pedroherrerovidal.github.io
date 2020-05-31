@@ -9,7 +9,7 @@ header:
 ---
 # **Education**
 
-- **Ph.D. Neural Science** New York University *with specialization in Systems, Cognition, and Computation* (expected graduation May 2021)
+- **Ph.D. Neural Science** New York University *with specialization in Systems, Cognition, and Computation* (expected graduation May 2022)
 
 - **M.S. Biology** New York University *with specialization in Bioinformatics and Systems Biology* (2017)
 
