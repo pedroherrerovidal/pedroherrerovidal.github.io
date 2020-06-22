@@ -26,6 +26,7 @@ header:
 
 # **Conferences**
 ## 2019
+- **P. Herrero-Vidal**, E. Shor, C. Savin, D. Rinberg. *Reliable chemical decoding from the olfactory system of the mouse*. **Machine Learning Summer School 2019**, Stellenbosch, South Africa.
 - P. Shrestha, Z. Shan, M. Marmarcz, A.  Zerihoun, C. Juan, K. Ruiz, **P. Herrero-Vidal**, N. Heintz, J. Pelletier, E. Klann. *A protein synthesis code for differential threat memory trace in central amygdala interneurons*. **Society for Neuroscience 2019 Annual meeting**, Chicago, IL [ :link: ](https://www.abstractsonline.com/pp8/#!/7883/presentation/52306)  <br />
 
 ## 2018
