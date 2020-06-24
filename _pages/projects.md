@@ -13,4 +13,4 @@ header:
 # Computational Neuroscience models
 This project compiles  a collection of methods in computational neuroscience to describe properies of neurons and neural networks with empashis in dynamics and Recurrent Neural Networks (RNNs). Each models is implemented from scratch and disected in a series of self-explanatory Jupyter Notebooks. 
 
-![alt](../assets/images/compNS.jpg)
+![](../assets/images/compNS.jpg)
