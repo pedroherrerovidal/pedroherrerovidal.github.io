@@ -13,6 +13,8 @@ Semi-supervised learning approaches provide ways to leverage on unlabelled sampl
 
 In collaboration with [Maple Li](https://github.com/Millebean) and Wang ChiaoHsun. [Python/PyTorch code](https://github.com/pedroherrerovidal/Semi-supervised_Learning_DL)
 
+[![](../assets/images/SSL_DL.jpg)](https://github.com/pedroherrerovidal/Semi-supervised_Learning_DL)
+
 # Models in Computational Neuroscience
 This project compiles  a collection of methods in computational neuroscience to describe properies of neurons and neural networks with empashis in dynamics and Recurrent Neural Networks (RNNs). Each models is implemented from scratch and disected in a series of self-explanatory [Jupyter Notebooks](https://github.com/pedroherrerovidal/ComputationalNeuroscience). 
 
