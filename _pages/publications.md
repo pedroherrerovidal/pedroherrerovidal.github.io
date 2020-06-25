@@ -30,7 +30,7 @@ header:
 - P. Shrestha, Z. Shan, M. Marmarcz, A.  Zerihoun, C. Juan, K. Ruiz, **P. Herrero-Vidal**, N. Heintz, J. Pelletier, E. Klann. *A protein synthesis code for differential threat memory trace in central amygdala interneurons*. **Society for Neuroscience 2019 Annual meeting**, Chicago, IL [ :link: ](https://www.abstractsonline.com/pp8/#!/7883/presentation/52306)  <br />
 
 ## 2018
-- P. Shrestha, P. Ayata, **P. Herrero-Vidal**, A. Gastone, N. Heintz & E. Klann. *Chemogenetic evidence for the protein synthesis requirement during memory consolidation*. **Society for Neuroscience 2017 Annual meeting**, Washington, D.C. [ :link: ](https://www.abstractsonline.com/pp8/#!/4649/presentation/8737)  <br />
+- P. Shrestha, P. Ayata, **P. Herrero-Vidal**, A. Gastone, N. Heintz & E. Klann. *Chemogenetic evidence for the protein synthesis requirement during memory consolidation*. **Society for Neuroscience 2018 Annual meeting**, Washington, D.C. [ :link: ](https://www.abstractsonline.com/pp8/#!/4649/presentation/8737)  <br />
 
 ## 2017
 - P. Shrestha, P. Ayata, **P. Herrero-Vidal**, A. Gastone, F. Longo, N. Heintz & E. Klann. *Chemogenetic interrogation of cell type specific translation in fear memories*. **Society for Neuroscience 2017 Annual meeting**, Washington, D.C. [ :link: ](https://www.abstractsonline.com/pp8/#!/4376/presentation/25181)  <br />
