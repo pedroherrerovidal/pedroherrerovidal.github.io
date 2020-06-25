@@ -11,7 +11,7 @@ header:
 # Semi-supervised Deep Learning strategy for image classication
 Semi-supervised learning approaches provide ways to leverage on unlabelled samples to improve task performance for labelled examples. Here, we implemented two Deep Learning strategies to solve a 1k-label image classification task. Our first approach consists of a convolutional neural network with ResNet stacked on top of the encoding module of a convolutional auto-encoder (CAE). Our second model is a modification of the [Mean Teacher algorithm](https://papers.nips.cc/paper/6719-mean-teachers-are-better-role-models-weight-averaged-consistency-targets-improve-semi-supervised-deep-learning-results.pdf). Including unlabelled data using these strategies provided superior classication generalization. Our results were awarded the 3rd place winner Semi-supervised learning competition (2019). 
 
-In collaboration with [Maple Li](https://github.com/Millebean) and Wang ChiaoHsun. [Python/PyTorch code](https://github.com/pedroherrerovidal/Semi-supervised_Learning_DL)
+In collaboration with [Maple Li](https://github.com/Millebean) and ChiaoHsun Wang. [Python/PyTorch code](https://github.com/pedroherrerovidal/Semi-supervised_Learning_DL)
 
 [![](../assets/images/SSL_DL.jpg)](https://github.com/pedroherrerovidal/Semi-supervised_Learning_DL)
 
