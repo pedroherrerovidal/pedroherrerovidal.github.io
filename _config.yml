@@ -124,17 +124,17 @@ footer:
   links:
     - label: "PedroHerreroV"
       icon: "fab fa-fw fa-twitter-square"
-      url: PedroHerreroV
+      url: https://twitter.com/PedroHerreroV
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "pedroherrerovidal"
       icon: "fab fa-fw fa-github"
-      url: pedroherrerovidal
+      url: https://github.com/pedroherrerovidal
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "LinkedIn"
+    - label: "pedroherrerovidal"
       icon: "fab fa-fw fa-linkedin-square"
       url: https://www.linkedin.com/in/pedroherrerovidal/
     - label: "Instagram"
