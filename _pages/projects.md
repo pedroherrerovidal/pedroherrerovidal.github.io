@@ -19,3 +19,10 @@ In collaboration with [Maple Li](https://github.com/Millebean) and ChiaoHsun Wan
 This project compiles  a collection of methods in computational neuroscience to describe properies of neurons and neural networks with empashis in dynamics and Recurrent Neural Networks (RNNs). Each models is implemented from scratch and disected in a series of self-explanatory [Jupyter Notebooks](https://github.com/pedroherrerovidal/ComputationalNeuroscience). 
 
 [![](../assets/images/compNS.jpg)](https://github.com/pedroherrerovidal/ComputationalNeuroscience)
+
+# Sequencing data processing, analysis and visualization for biomedical research
+This project developed a preprocessing and analysis pipeline to extract biomedically relevant information from transcriptomics data. Here, we started from raw nucleotide sequences, preprocess and curate them to extract tables of counts linking gene expression and physiological condition. Then we extracted significantily activated genes for all conditions, correcting for multiple data comparisons, did unsupervised exploration of data structure using multidimensional scaling (MDS) and draw predictions between treatment conditions using generalized linear models (GLMs).
+
+In collaboration with [Gunjan Gala](https://github.com/gunjangala). [R and Shell code](https://github.com/pedroherrerovidal/GeneTranscriptomicDataAnalysis)
+
+[![](../assets/images/geneTools.jpg)](https://github.com/pedroherrerovidal/GeneTranscriptomicDataAnalysis)
