@@ -25,6 +25,9 @@ header:
 - **P. Herrero-Vidal**. *Reliable chemical decoding from the olfactory bulb of the mouse*. **First Year Talks**, New York University, NY.
 
 # **Conferences**
+## 2020
+- **P. Herrero-Vidal**, E. Shor, C. Savin, D. Rinberg. *Transfer Learning algorithm for bio-electronic nose stimulus identification across animals*. **Interntional Conference on Mathematical Neuroscience**, digital.
+
 ## 2019
 - **P. Herrero-Vidal**, E. Shor, C. Savin, D. Rinberg. *Reliable chemical decoding from the olfactory system of the mouse*. **Machine Learning Summer School 2019**, Stellenbosch, South Africa.
 - P. Shrestha, Z. Shan, M. Marmarcz, A.  Zerihoun, C. Juan, K. Ruiz, **P. Herrero-Vidal**, N. Heintz, J. Pelletier, E. Klann. *A protein synthesis code for differential threat memory trace in central amygdala interneurons*. **Society for Neuroscience 2019 Annual meeting**, Chicago, IL [ :link: ](https://www.abstractsonline.com/pp8/#!/7883/presentation/52306)  <br />
