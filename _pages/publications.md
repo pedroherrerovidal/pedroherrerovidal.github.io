@@ -24,7 +24,7 @@ header:
 ## 2018
 - **P. Herrero-Vidal**. *Reliable chemical decoding from the olfactory bulb of the mouse*. **First Year Talks**, New York University, NY.
 
-# **Conferences**
+# **Conference presentations**
 ## 2020
 - **P. Herrero-Vidal**, E. Shor, C. Savin, D. Rinberg. *Transfer Learning algorithm for bio-electronic nose stimulus identification across animals*. **Interntional Conference on Mathematical Neuroscience**, digital.
 
