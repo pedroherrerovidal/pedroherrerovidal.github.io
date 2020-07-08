@@ -16,7 +16,7 @@ header:
 
 - 2015-2015: **Research technician** at Pharmactive Biotech Products, S.L., Spain. <br />
 
-- 2014-2015: **Research officer** at the Genome Institute of Singapore, ASTAR, Singapore. <br />
+- 2014-2015: **Research officer** at the Genome Institute of Singapore, A\*STAR, Singapore. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Jianjun Liu
 
 - 2012-2014: **Undergraduate research assistant** at the Center for Molecular Biology, Severo Ochoa, CSIC, Spain. <br />
