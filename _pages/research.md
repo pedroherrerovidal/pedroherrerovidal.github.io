@@ -14,9 +14,12 @@ header:
 - 2015-2017: **Graduate research assistant** at the Center For Neural Science, NYU, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Eric Klann
 
-- 2015-2015: **Research technician** at Pharmactive Biotech Products, S.L., Spain. <br />
+- 2017: **Research technician** at Pharmactive Biotech Products, S.L., Spain. <br />
 
-- 2014-2015: **Research officer** at the Genome Institute of Singapore, A\*STAR, Singapore. <br />
+- 2014-2015: **Graduate research assistant** at the Institute Cajal, CSIC, Spain. <br />
+&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Liset Menendez de la Prida
+
+- 2014: **Research officer** at the Genome Institute of Singapore, A\*STAR, Singapore. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Jianjun Liu
 
 - 2012-2014: **Undergraduate research assistant** at the Center for Molecular Biology, Severo Ochoa, CSIC, Spain. <br />
