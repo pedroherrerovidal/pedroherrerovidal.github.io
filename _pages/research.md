@@ -19,7 +19,7 @@ header:
 - 2014-2015: **Graduate research assistant** at the Institute Cajal, CSIC, Spain. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Liset Menendez de la Prida
 
-- 2014: **Research officer** at the Genome Institute of Singapore, A\*STAR, Singapore. <br />
+- 2013: **Research officer** at the Genome Institute of Singapore, A\*STAR, Singapore. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Jianjun Liu
 
 - 2012-2014: **Undergraduate research assistant** at the Center for Molecular Biology, Severo Ochoa, CSIC, Spain. <br />
