@@ -18,7 +18,7 @@ header:
 
 (2016) **Dean's student travel grant**, NYU
 
-(2014) **General grant for graudate University studies**, MECD Spain
+(2014) **General grant for graduate University studies**, MECD Spain
 
 (2014) **U.A.M.'s financial support for Master’s Studies**, UAM
 
