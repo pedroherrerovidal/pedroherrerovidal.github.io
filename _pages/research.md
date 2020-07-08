@@ -14,7 +14,7 @@ header:
 - 2015-2017: **Graduate research assistant** at the Center For Neural Science, NYU, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Eric Klann
 
-- 2017-2017: **Research technician** at Pharmactive Biotech Products, S.L., Spain. <br />
+- 2015-2015: **Research technician** at Pharmactive Biotech Products, S.L., Spain. <br />
 
 - 2014-2015: **Research officer** at the Genome Institute of Singapore, ASTAR, Singapore. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Jianjun Liu
