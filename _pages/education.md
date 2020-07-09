@@ -28,7 +28,7 @@ header:
 - **Machine Learning**, Coursera (2017) [ :link: ](https://www.coursera.org/account/accomplishments/verify/ET6KA8R7NBAF)
 
 # Skills
-Python, Jupyter Notebook, TensorFlow, PyTorch, Pandas, Scikit-learn, Git, MATLAB, R, Shell scripting
+Python, Jupyter Notebook, TensorFlow, PyTorch, Pandas, Scikit-learn, Git, MATLAB, R, Shell scripting, SQL
 
 # Languages
 Spanish (Native), English (Professional), Italian (Basic)
