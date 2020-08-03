@@ -18,7 +18,7 @@ header:
 
 # **Talks**
 ## 2020
-- **P. Herrero-Vidal**, E. Choong, C. Savin, D. Rinberg. *Encoding of behaviorally relevant synthetic odor objects in the piriform cortex of the mouse*. **International Symposium on Olfaction and Taste**, Virtual meeting. [ ..link.. ](https://achems.org/virtual/?page=presentation&session_id=95&presentation_id=291&displayday=&pagefrom=program) <br />
+- **P. Herrero-Vidal**, E. Choong, C. Savin, D. Rinberg. *Encoding of behaviorally relevant synthetic odor objects in the piriform cortex of the mouse*. **International Symposium on Olfaction and Taste**, Virtual meeting. [ :link: ](https://achems.org/virtual/?page=presentation&session_id=95&presentation_id=291&displayday=&pagefrom=program) <br />
 - **P. Herrero-Vidal**. *Encoding and decoding of odor objects in the piriform cortex*. **Computational Neuroscience Symposium**, New York University, NY.  <br />
 - **P. Herrero-Vidal**. *Decoding of chemical information from populations of olfactory neurons*. **Neural Engineering Research Venture (NERV)**, Stellenbosch University, South Africa. [:link:](https://www.crowdcast.io/e/nervevent-pedro/register)  <br />
 
