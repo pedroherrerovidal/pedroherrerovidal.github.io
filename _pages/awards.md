@@ -8,13 +8,13 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-**3rd place winner Semi-supervised learning competition**, NYU (2019) 
+**Semi-supervised learning competition 3rd place winner**, NYU (2019) 
 
 **NYU Training Program in Computational Neuroscience Fellowship**, NIH (2018) 
 
 **MacCracken Fellowship for Doctoral studies**, NYU (2017) 
 
-**3rd place winner 19th MS poster session**, NYU (2017) 
+**19th MS poster session 3rd place winner **, NYU (2017) 
 
 **Dean's student travel grant**, NYU (2016) 
 
