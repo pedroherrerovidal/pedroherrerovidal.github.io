@@ -14,7 +14,7 @@ header:
 
 **MacCracken Fellowship for Doctoral studies**, NYU (2017) 
 
-**19th MS poster session 3rd place winner **, NYU (2017) 
+**19th MS poster session 3rd place winner**, NYU (2017) 
 
 **Dean's student travel grant**, NYU (2016) 
 
