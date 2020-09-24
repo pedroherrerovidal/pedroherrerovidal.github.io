@@ -27,6 +27,8 @@ header:
 
 # **Conference presentations**
 ## 2020
+- **P. Herrero-Vidal**, E. Shor, D. Rinberg, C. Savin. *Efficient odor identification across animals by transfer learning*. **Bernstein Conference 2020 online** [ :link: ](https://abstracts.g-node.org/conference/BC20/abstracts#/uuid/6543eb22-35bb-4c4a-bdb7-8f226b67dcf3)
+
 - **P. Herrero-Vidal**, E. Shor, D. Rinberg, C. Savin. *Transfer Learning algorithm for bio-electronic nose stimulus identification across animals*. **International Conference on Mathematical Neuroscience 2020**, digital.
 
 ## 2019
