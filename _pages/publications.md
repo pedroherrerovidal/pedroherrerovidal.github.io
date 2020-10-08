@@ -10,7 +10,7 @@ header:
 # **Publications**
 ## 2020
 - E. Shor, **P. Herrero-Vidal**, A. Dewan, I. Uguz, V. Curto, G. Malliaras, C. Savin, T. Bozza, D. Rinberg. *A mouse bio-electronic nose for sensitive and versatile chemical detection*. **bioRxiv** (2020) [ :link: ](https://www.biorxiv.org/content/10.1101/2020.05.06.079772v1)  <br />
-- P. Shrestha, Z. Shan, M. Marmarcz, K. Ruiz, A.  Zerihoun, C. Juan, **P. Herrero-Vidal**, J. Pelletier, N. Heintz, E. Klann. *De novo protein synthesis in distinct centrolateral amygdala interneurons is required for associative emotional memories*. **bioRxiv** (2020) [ :link: ](https://www.biorxiv.org/content/10.1101/2020.04.08.028233v1)  <br />
+- P. Shrestha, Z. Shan, M. Marmarcz, K. Ruiz, A.  Zerihoun, C. Juan, **P. Herrero-Vidal**, J. Pelletier, N. Heintz, E. Klann. *Amygdala inhibitory neurons as loci for translation in emotional memories*. **Nature** (2020) [ :link: ](https://www.nature.com/articles/s41586-020-2793-8)  <br />
 - P. Shrestha, P. Ayata, **P. Herrero-Vidal**, F. Longo, A. Gastone, J. LeDoux, N. Heintz, E. Klann. *Cell-type-specific drug-inducible protein synthesis inhibition demonstrates that memory consolidation requires rapid neuronal translation*. **Nature Neuroscience**, 23, 281–292 (2020) [:link:](https://www.nature.com/articles/s41593-019-0568-z)  <br />
 
 ## 2013
