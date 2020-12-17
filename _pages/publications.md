@@ -18,6 +18,7 @@ header:
 
 # **Talks**
 ## 2020
+- **P. Herrero-Vidal**. *A Brain-Computer Interface for robust and efficient chemical detection*. **CogSys X-Mas workshop**, Technical University of Denmark - DTU, virtual meeting.
 - **P. Herrero-Vidal**, E. Chong, C. Savin, D. Rinberg. *Encoding of behaviorally relevant synthetic odor objects in the piriform cortex of the mouse*. **International Symposium on Olfaction and Taste 2020**, Virtual meeting. [ :link: ](https://achems.org/virtual/?page=presentation&session_id=95&presentation_id=291&displayday=&pagefrom=program) <br />
 - **P. Herrero-Vidal**. *Encoding and decoding of odor objects in the piriform cortex*. **Annual Computational Neuroscience Symposium**, New York University, NY.  <br />
 - **P. Herrero-Vidal**. *Decoding of chemical information from populations of olfactory neurons*. **Neural Engineering Research Venture (NERV)**, Stellenbosch University, South Africa. [:link:](https://www.crowdcast.io/e/nervevent-pedro/register)  <br />
