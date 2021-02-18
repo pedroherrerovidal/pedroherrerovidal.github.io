@@ -14,11 +14,14 @@ header:
 - P. Shrestha, P. Ayata, **P. Herrero-Vidal**, F. Longo, A. Gastone, J. LeDoux, N. Heintz, E. Klann. *Cell-type-specific drug-inducible protein synthesis inhibition demonstrates that memory consolidation requires rapid neuronal translation*. **Nature Neuroscience**, 23, 281–292 (2020) [:link:](https://www.nature.com/articles/s41593-019-0568-z)  <br />
 
 ## 2013
-- S. Gutierrez-Erlandsson\*, **P. Herrero-Vidal**\*, M. Fernandez-Alfara, S. Hernandez-Garcia, S. Gonzalo-Flores, A. Mudarra-Rubio, M. Fresno, B. Cubelos. *R-RAS2 overexpression in tumors of the human central nervous system*. **Molecular Cancer**, 12 (1), 127 (2013) [ :link: ](https://link.springer.com/article/10.1186/1476-4598-12-127) 
+- S. Gutierrez-Erlandsson\*, **P. Herrero-Vidal**\*, M. Fernandez-Alfara, S. Hernandez-Garcia, S. Gonzalo-Flores, A. Mudarra-Rubio, M. Fresno, B. Cubelos. *R-RAS2 overexpression in tumors of the human central nervous system*. **Molecular Cancer**, 12 (1), 127 (2013) [ :link: ](https://link.springer.com/article/10.1186/1476-4598-12-127) <br />
 
 # **Talks**
 ## 2020
-- **P. Herrero-Vidal**. *A Brain-Computer Interface for robust and efficient chemical detection*. **CogSys X-Mas workshop**, Technical University of Denmark - DTU, virtual meeting.
+- **P. Herrero-Vidal**. *Linking piriform cortex activity to odor perception in the mouse*. **Neuroscience Institute Group Meeting**, New York University, virtual meeting. <br />
+
+## 2020
+- **P. Herrero-Vidal**. *A Brain-Computer Interface for robust and efficient chemical detection*. **CogSys X-Mas workshop**, Technical University of Denmark - DTU, virtual meeting. <br />
 - **P. Herrero-Vidal**, E. Chong, C. Savin, D. Rinberg. *Encoding of behaviorally relevant synthetic odor objects in the piriform cortex of the mouse*. **International Symposium on Olfaction and Taste 2020**, Virtual meeting. [ :link: ](https://achems.org/virtual/?page=presentation&session_id=95&presentation_id=291&displayday=&pagefrom=program) <br />
 - **P. Herrero-Vidal**. *Encoding and decoding of odor objects in the piriform cortex*. **Annual Computational Neuroscience Symposium**, New York University, NY.  <br />
 - **P. Herrero-Vidal**. *Decoding of chemical information from populations of olfactory neurons*. **Neural Engineering Research Venture (NERV)**, Stellenbosch University, South Africa. [:link:](https://www.crowdcast.io/e/nervevent-pedro/register)  <br />
@@ -28,12 +31,12 @@ header:
 
 # **Conference presentations**
 ## 2020
-- **P. Herrero-Vidal**, E. Shor, D. Rinberg, C. Savin. *Efficient odor identification across animals by transfer learning*. **Bernstein Conference 2020 online** [ :link: ](https://abstracts.g-node.org/conference/BC20/abstracts#/uuid/6543eb22-35bb-4c4a-bdb7-8f226b67dcf3)
+- **P. Herrero-Vidal**, E. Shor, D. Rinberg, C. Savin. *Efficient odor identification across animals by transfer learning*. **Bernstein Conference 2020 online** [ :link: ](https://abstracts.g-node.org/conference/BC20/abstracts#/uuid/6543eb22-35bb-4c4a-bdb7-8f226b67dcf3) <br />
 
-- **P. Herrero-Vidal**, E. Shor, D. Rinberg, C. Savin. *Transfer Learning algorithm for bio-electronic nose stimulus identification across animals*. **International Conference on Mathematical Neuroscience 2020**, digital.
+- **P. Herrero-Vidal**, E. Shor, D. Rinberg, C. Savin. *Transfer Learning algorithm for bio-electronic nose stimulus identification across animals*. **International Conference on Mathematical Neuroscience 2020**, digital. <br />
 
 ## 2019
-- **P. Herrero-Vidal**, E. Shor, C. Savin, D. Rinberg. *Reliable chemical decoding from the olfactory system of the mouse*. **Machine Learning Summer School 2019**, Stellenbosch, South Africa.
+- **P. Herrero-Vidal**, E. Shor, C. Savin, D. Rinberg. *Reliable chemical decoding from the olfactory system of the mouse*. **Machine Learning Summer School 2019**, Stellenbosch, South Africa. <br />
 - P. Shrestha, Z. Shan, M. Marmarcz, A.  Zerihoun, C. Juan, K. Ruiz, **P. Herrero-Vidal**, N. Heintz, J. Pelletier, E. Klann. *A protein synthesis code for differential threat memory trace in central amygdala interneurons*. **Society for Neuroscience 2019 Annual meeting**, Chicago, IL [ :link: ](https://www.abstractsonline.com/pp8/#!/7883/presentation/52306)  <br />
 
 ## 2018
