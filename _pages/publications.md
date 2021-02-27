@@ -30,6 +30,9 @@ header:
 - **P. Herrero-Vidal**. *Reliable chemical decoding from the olfactory bulb of the mouse*. **First Year Talks**, New York University, NY.
 
 # **Conference presentations**
+## 2021
+- **P. Herrero-Vidal**, E. Chong, C. Savin, D. Rinberg. *Linking piriform cortex activity to odor perception in the mouse*. **Cognitive and Systems Neuroscience conference (COSYNE 2021)**, virtual meeting. <br />
+
 ## 2020
 - **P. Herrero-Vidal**, E. Shor, D. Rinberg, C. Savin. *Efficient odor identification across animals by transfer learning*. **Bernstein Conference 2020 online** [ :link: ](https://abstracts.g-node.org/conference/BC20/abstracts#/uuid/6543eb22-35bb-4c4a-bdb7-8f226b67dcf3) <br />
 
