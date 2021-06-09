@@ -8,6 +8,9 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 # **Publications**
+## 2021
+- **P. Herrero-Vidal**, D. Rinberg, C. Savin. *Across-animal odor decoding by probabilistic manifold alignment*. **bioRxiv** (2021) [ :link: ](https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1)  <br />
+
 ## 2020
 - E. Shor, **P. Herrero-Vidal**, A. Dewan, I. Uguz, V. Curto, G. Malliaras, C. Savin, T. Bozza, D. Rinberg. *A mouse bio-electronic nose for sensitive and versatile chemical detection*. **bioRxiv** (2020) [ :link: ](https://www.biorxiv.org/content/10.1101/2020.05.06.079772v1)  <br />
 - P. Shrestha, Z. Shan, M. Marmarcz, K. Ruiz, A.  Zerihoun, C. Juan, **P. Herrero-Vidal**, J. Pelletier, N. Heintz, E. Klann. *Amygdala inhibitory neurons as loci for translation in emotional memories*. **Nature** (2020) [ :link: ](https://www.nature.com/articles/s41586-020-2793-8)  <br />
