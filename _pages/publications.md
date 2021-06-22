@@ -9,7 +9,7 @@ header:
 ---
 # **Publications**
 <div dir=rtl markdown=1> 2021 
-<div dir=ltl markdown=1> 
+<div dir=ltr markdown=1> 
 - **P. Herrero-Vidal**, D. Rinberg, C. Savin. *Across-animal odor decoding by probabilistic manifold alignment*. **bioRxiv** (2021) [ :link: ](https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1)  <br />
 
 ## 2020
