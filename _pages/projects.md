@@ -13,8 +13,7 @@ Identifying the common structure of neural dynamics across subjects is key for e
 
 This work is published at NeurIPS 2021 as a spotlight (<3% acceptance). [Python code](https://github.com/pedroherrerovidal/amLDS)
 
-[![](../assets/images/amlds_neurips.jpg)](https://github.com/pedroherrerovidal/amLDS)
-
+[![](../assets/images/amlds_neurips.png)](https://github.com/pedroherrerovidal/amLDS)
 
 # Semi-supervised Deep Learning strategy for image classication
 Semi-supervised learning approaches provide ways to leverage on unlabeled samples to improve task performance for labeled examples. Here, we implemented two Deep Learning strategies to solve a 1k-label image classification task. Our first approach consists of a convolutional neural network with ResNet stacked on top of the encoding module of a convolutional auto-encoder (CAE). Our second model is a modification of the [Mean Teacher algorithm](https://papers.nips.cc/paper/6719-mean-teachers-are-better-role-models-weight-averaged-consistency-targets-improve-semi-supervised-deep-learning-results.pdf). Including unlabeled data using these strategies provided superior classication generalization. Our results were awarded the 3rd place winner Semi-supervised learning competition (2019). 
