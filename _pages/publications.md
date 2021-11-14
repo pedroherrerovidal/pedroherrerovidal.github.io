@@ -12,7 +12,7 @@ header:
 ## 2021 
 <div dir=ltr markdown=1> 
 - **P. Herrero-Vidal**, D. Rinberg, C. Savin. *Across-animal odor decoding by probabilistic manifold alignment*. **35th conference on Neural Information
-Processing Systems** (**NeurIPS 2021**, spotlight <3% acceptance) [ :link: ](https://www.biorxiv.org/content/10.1101/2021.06.06.447279v1)  <br />
+Processing Systems** (**NeurIPS 2021**, spotlight <3% acceptance) [ :link: ](https://proceedings.neurips.cc/paper/2021/hash/aad64398a969ec3186800d412fa7ab31-Abstract.html)  <br />
 - E. Shor\*, **P. Herrero-Vidal**\*, A. Dewan, I. Uguz, V. Curto, G. Malliaras, C. Savin, T. Bozza, D. Rinberg. *Sensitive and robust chemical detection using an olfactory brain-computer interface*. **Biosensors and Bioelectronics** (2021) [ :link: ](https://www.sciencedirect.com/science/article/pii/S0956566321007016)  <br />
 
 <div dir=rtl markdown=1> 
