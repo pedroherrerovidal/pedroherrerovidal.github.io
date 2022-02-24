@@ -9,7 +9,7 @@ header:
 ---
 
 
-**Mightex Research Awards - Honorable Mention**, Mightex (2021)
+**Mightex Research Awards' Honorable Mention**, Mightex (2021)
 
 **Semi-supervised learning competition 3rd place winner**, NYU (2019) 
 
