@@ -8,6 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+
 **Mightex Research Awards - Honorable Mention**, Mightex (2021)
 
 **Semi-supervised learning competition 3rd place winner**, NYU (2019) 
