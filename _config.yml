@@ -99,6 +99,8 @@ author:
   location         : "New York City"
   email            :
   linkedin         : "pedroherrerovidal" 
+  uri              : "https://scholar.google.com/citations?user=p36tgpsAAAAJ"
+  cv               : "./assets/files/Pedro_HERRERO-VIDAL_CV.pdf"
   links:
     - label: "pmh314@nyu.edu"
       icon: "fas fa-fw fa-envelope-square"
