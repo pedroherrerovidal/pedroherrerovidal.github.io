@@ -11,7 +11,6 @@ header:
 <div dir=rtl markdown=1> 
 ## 2022
 <div dir=ltr markdown=1> 
-- **P. Herrero-Vidal**, C. Liu, Y. Chen, L. Wang. *Efficient item-pair matching via ensemble multi-modal waterfall edge generation*. **in preparation**  <br />
 - E. Balzani, J.P. Noel, P. Herrero-Vidal, D.E. Angelaki, C. Savin. *A probabilistic framework for task-aligned intra-and inter-area neural manifold estimation*. **arXiv** (2022) [ :link: ](https://arxiv.org/abs/2209.02816)  <br />
 
 <div dir=rtl markdown=1> 
