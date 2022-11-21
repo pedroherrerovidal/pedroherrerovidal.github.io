@@ -35,6 +35,10 @@ Processing Systems** (**NeurIPS 2021**, spotlight <3% acceptance) [ :link: ](htt
 <br />
 # **Talks**
 <div dir=rtl markdown=1> 
+## 2022
+- **P. Herrero-Vidal**, E. chong, C. Savin, D. Rinberg. *Object representation in the piriform cortex*, **Society for Neuroscience 2022 Annual meeting**, San Diego, CA. <br />
+
+<div dir=rtl markdown=1> 
 ## 2021
 <div dir=ltr markdown=1> 
 - **P. Herrero-Vidal**. *Linking piriform cortex activity to odor perception in the mouse*. **Neuroscience Institute Group Meeting**, New York University, virtual meeting. <br />
