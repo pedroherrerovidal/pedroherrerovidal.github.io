@@ -36,6 +36,7 @@ Processing Systems** (**NeurIPS 2021**, spotlight <3% acceptance) [ :link: ](htt
 # **Talks**
 <div dir=rtl markdown=1> 
 ## 2022
+<div dir=ltr markdown=1> 
 - **P. Herrero-Vidal**, E. chong, C. Savin, D. Rinberg. *Object representation in the piriform cortex*, **Society for Neuroscience 2022 Annual meeting**, San Diego, CA. [ :link: ](https://www.abstractsonline.com/pp8/#!/10619/presentation/71003) <br />
 
 <div dir=rtl markdown=1> 
