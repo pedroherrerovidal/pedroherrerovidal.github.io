@@ -7,8 +7,6 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-I am a Computational Neuroscience Ph.D. candidate at NYU. My work aims to understand the encoding of sensory stimuli into neural activity and how experience shapes those representations. I combine optogenetics, ephys recordings and machine learning methods to explore how synthetic odors are represented in the cortex, what are the behaviorally relevant features of such code, and what is the effect of learning in this neural network. 
+I am Ph.D. qualified Applied Scientist at Amazon, working at the cutting-edge of Maching Learning and Artificial Intelligence promoting techincal innovation and descovery.
 
-I am also interested in the use and development of ML algorithms to extract meaningful information from complex datasets. Part of my previous work involved dealing with images, genomic and neural activity data to extract ROIs, neural features or classification, identify markers of neurological diseases and identify odor identity and intensity, respectively.
-
-I am a member of the [Savin lab](https://csavin.wixsite.com/savinlab) and the [Rinberg lab](https://www.rinberglab.com/) at New York University.
+As part of my prior experience and Ph.D. work, I engineered and developed ML algorithms to extract meaningful information from complex datasets. Part of my previous work involved dealing with text, images, genomic and neural activity data to perform entity resolution, parse ROIs, neural features or classification, identify markers of neurological diseases and identify odor identity and intensity.
