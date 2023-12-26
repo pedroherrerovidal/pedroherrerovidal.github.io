@@ -8,12 +8,12 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 # **Work**
-- 2017-2022: **Applied Scientist II, Amazon, USA. <br />
+- 2017-2022: **Applied Scientist II**, Amazon, USA. <br />
 
 - 2017-2023: **Ph.D. candidate** at the Center For Neural Science, NYU, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisors: Cristina Savin and Dmitry Rinberg
 
-- 2017-2022: **Applied Scientist II intern, Amazon, USA. <br />
+- 2017-2022: **Applied Scientist II intern**, Amazon, USA. <br />
 
 - 2015-2017: **Graduate research assistant** at the Center For Neural Science, NYU, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Eric Klann
