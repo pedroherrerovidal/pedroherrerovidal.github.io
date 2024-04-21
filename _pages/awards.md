@@ -9,6 +9,8 @@ header:
 ---
 
 
+**Nova List 111**, Nova (2024)
+
 **Mightex Research Awards' Honorable Mention**, Mightex (2021)
 
 **Semi-supervised learning competition 3rd place winner**, NYU (2019) 
