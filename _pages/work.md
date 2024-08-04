@@ -13,7 +13,7 @@ header:
 - 2017-2023: **Ph.D. candidate** at the Center For Neural Science, NYU, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisors: Cristina Savin and Dmitry Rinberg
 
-- 2017-2022: **Applied Scientist II intern**, Amazon, USA. <br />
+- 2022: **Applied Scientist II intern**, Amazon, USA. <br />
 
 - 2015-2017: **Graduate research assistant** at the Center For Neural Science, NYU, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Eric Klann
