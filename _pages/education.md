@@ -11,6 +11,8 @@ header:
 
 - **Ph.D. Neural Science** New York University *with specialization in Systems, Cognition, and Computation* (2023)
 
+- **M.Phil. Neural Science** New York University *with specialization in Systems, Cognition, and Computation* (2021)
+
 - **M.S. Biology** New York University *with specialization in Bioinformatics and Systems Biology* (2017)
 
 - **M.S. Condensed Matter Physics and Systems Biology** Autonomous University of Madrid *with specialization in Biophysics* (2015)
@@ -18,6 +20,10 @@ header:
 - **B.S. Biochemistry** Autonomous University of Madrid (2014)
 
 # **Additional education**
+
+- **Natural Language Processing Specialization**, DeepLerning.ai (2023)
+
+- **AWS Technical Essentials**, AWS (2022)
 
 - **Machine Learning Summer School**, Stellenbosch, South Africa (2019)
 
@@ -28,7 +34,10 @@ header:
 - **Machine Learning**, Coursera (2017) [ :link: ](https://www.coursera.org/account/accomplishments/verify/ET6KA8R7NBAF)
 
 # Skills
-Python, Jupyter Notebook, TensorFlow, PyTorch, Pandas, Scikit-learn, Git, MATLAB, R, Shell scripting, SQL
+
+- Python, Jupyter Notebook, TensorFlow, PyTorch, Pandas, Scikit-learn, Git, MATLAB, R, Shell scripting, SQL, Scala
+
+- GitHub, Spark, PySpark, Hadoop, MS Office, AWS
 
 # Languages
 Spanish (Native), English (Professional), Italian (Basic)
