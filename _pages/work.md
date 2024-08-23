@@ -36,3 +36,15 @@ header:
 - Fall 2018: **Brain and Behavior undergraduate level course teaching assistant**, Center for Neural Science, NYU, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Professor: Andre Fenton
 
+# **Reviewer Appointments**
+- Neural Information Processing Systems
+
+- International Conference on Machine Learning
+
+- Deep Learning Indaba
+
+- Consumer Science Summit
+
+- Amazon Machine Learning Conference
+
+
