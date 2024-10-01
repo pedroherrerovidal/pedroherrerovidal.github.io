@@ -17,7 +17,7 @@ header:
 ## 2023
 <div dir=ltr markdown=1> 
 - **P. Herrero-Vidal**. *On the encoding and decoding of stimulus information across the olfactory system*. **New York University** (2023) [ :link: ](https://www.proquest.com/openview/4c4808e8bcebc94b2dfd85fc27134e18/1?pq-origsite=gscholar&cbl=18750&diss=y)  <br />
-- E. Balzani, J.P. Noel, **P. Herrero-Vidal**, D.E. Angelaki, C. Savin. *A probabilistic framework for task-aligned intra-and inter-area neural manifold estimation*. *The 11th International Conference on Learning Representations* (**ICLR 2023**, notable-top-25%) [ :link: ](https://arxiv.org/abs/2209.02816)  <br />
+- E. Balzani, J.P. Noel, **P. Herrero-Vidal**, D.E. Angelaki, C. Savin. *A probabilistic framework for task-aligned intra-and inter-area neural manifold estimation*. **The 11th International Conference on Learning Representations** (**ICLR 2023**, notable-top-25%) [ :link: ](https://arxiv.org/abs/2209.02816)  <br />
 
 <div dir=rtl markdown=1> 
 ## 2021 
