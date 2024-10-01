@@ -9,6 +9,11 @@ header:
 ---
 # **Publications**
 <div dir=rtl markdown=1> 
+## 2024
+<div dir=ltr markdown=1> 
+- **P. Herrero-Vidal**, Y. Chen, C. Liu, P. Sen, L. Wang. *Learning variant product relationship and variation attributes from e-commerce website structures*. **First workshop on Generative AI for E-commerce** (2024) [ :link: ](https://www.amazon.science/publications/learning-variant-product-relationship-and-variation-attributes-from-e-commerce-website-structures)  <br />
+
+<div dir=rtl markdown=1> 
 ## 2023
 <div dir=ltr markdown=1> 
 - **P. Herrero-Vidal**. *On the encoding and decoding of stimulus information across the olfactory system*. **New York University** (2023) [ :link: ](https://www.proquest.com/openview/4c4808e8bcebc94b2dfd85fc27134e18/1?pq-origsite=gscholar&cbl=18750&diss=y)  <br />
