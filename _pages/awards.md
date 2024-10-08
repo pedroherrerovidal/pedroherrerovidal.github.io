@@ -11,6 +11,8 @@ header:
 
 **Nova List 111**, Nova (2024)
 
+**Top Reviewer of Neural Information Processing Systems**, NeurIPS (2023)
+
 **Mightex Research Awards' Honorable Mention**, Mightex (2021)
 
 **Semi-supervised learning competition 3rd place winner**, NYU (2019) 
