@@ -67,6 +67,11 @@ Processing Systems** (**NeurIPS 2021**, spotlight <3% acceptance) [ :link: ](htt
 <br />
 # **Conference presentations**
 <div dir=rtl markdown=1> 
+## 2024
+<div dir=ltr markdown=1> 
+- **P. Herrero-Vidal**, Y. Chen, C. Liu, P. Sen, L. Wang. *Learning variant product relationship and variation attributes from e-commerce website structures*. **First workshop on Generative AI for E-commerce** (2024) [ :link: ](https://genai-ecommerce.github.io/GenAIECommerce2024)  <br />
+
+<div dir=rtl markdown=1> 
 ## 2021
 <div dir=ltr markdown=1> 
 - **P. Herrero-Vidal**, E. Chong, C. Savin, D. Rinberg. *Linking piriform cortex activity to odor perception in the mouse*. **Cognitive and Systems Neuroscience conference (CoSyNe 2021)**, virtual meeting. [ :link: ](http://www.cosyne.org/cosyne21/Cosyne2021_program_book.pdf) <br />
