@@ -8,8 +8,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-I am Ph.D. qualified Applied Scientist at Amazon, working at the cutting-edge of Machine Learning and Artificial Intelligence promoting technical innovation and discovery.
+I am a Ph.D.-qualified Applied Scientist at Amazon, specializing in cutting-edge Machine Learning and Artificial Intelligence to drive technical innovation and discovery.
 
-As part of my prior experience and Ph.D. work, I engineered and developed neuro-inspired AI algorithms to extract meaningful information from complex datasets. Some of my previous work involved dealing with text, images, genomic and neural activity data to perform entity resolution, parse  ROIs, neural feature classification, identify markers of neurological diseases and identify odor identity and intensity.
+In my previous roles and through my doctoral research, I developed neuro-inspired AI algorithms designed to extract actionable insights from complex datasets. My work has spanned a wide range of domains, including text, image, genomic, and neural activity data. Specific projects have involved entity resolution, region-of-interest (ROI) parsing, neural feature classification, identifying biomarkers for neurological diseases, and characterizing odor identity and intensity.
 
-**Research interests**: artificial intelligence, probabilistic and sequential data modeling, neuro-inspired technology, transfer learning, signal processing, dimensionality reduction and generative methods
+**Research interests**: Artificial Intelligence, Probabilistic and Sequential Data Modeling, Neuro-Inspired Technology, Transfer Learning, Signal Processing, Dimensionality Reduction and Generative Methods.
